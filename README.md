@@ -1,9 +1,7 @@
-Constella Core integration/staging tree
+Constella Core
 =====================================
 
-[![Build Status](https://travis-ci.org/constella-project/constella.svg?branch=master)](https://travis-ci.org/constella-project/constella)
-
-https://constella.org
+https://constella.io
 
 What is Constella?
 ----------------
@@ -15,7 +13,7 @@ out collectively by the network. Constella Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Constella Core software, see [https://constella.org](https://constella.org).
+the Constella Core software, see [https://constella.io](https://constella.io).
 
 License
 -------
