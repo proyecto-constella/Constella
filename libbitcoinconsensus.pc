@@ -1,0 +1,11 @@
+prefix=/home/pablo/Escritorio/altcoin-generator/constella/depends/x86_64-w64-mingw32
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Constella Core consensus library
+Description: Library for the Bitcoin consensus protocol.
+Version: 0.18.1
+Libs: -L${libdir} -lbitcoinconsensus
+Cflags: -I${includedir}
+Requires.private: libcrypto
